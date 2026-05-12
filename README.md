@@ -34,7 +34,6 @@ Present the logic workflows in bulleted lists.
 Ensure the final output serves as a "Master Prompt" that could be used to program the actual chatbot interface.
 
 ## Output:
-# Project Report
 
 [Exp-04 output](Exp-04output.pdf)
 ## Result:
