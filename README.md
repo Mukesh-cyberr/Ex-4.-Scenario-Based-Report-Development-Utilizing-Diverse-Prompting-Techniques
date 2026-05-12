@@ -36,6 +36,6 @@ Ensure the final output serves as a "Master Prompt" that could be used to progra
 ## Output:
 # Project Report
 
-[Exp-04 output](https://github.com/Mukesh-cyberr/REPO/blob/main/docs/Exp-04output.pdf)
+[Exp-04 output](Exp-04output.pdf)
 ## Result:
 Thus,The proposed RetailBot 2.0 framework successfully establishes a structured AI-powered retail chatbot architecture that enhances customer engagement, improves operational efficiency, and increases sales opportunities.
